@@ -1,0 +1,14 @@
+.heading {
+    font-size: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.heading span{
+    font-size: medium;
+}
+
+canvas {
+    border: 5px ridge black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
